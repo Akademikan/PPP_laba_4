@@ -1,2 +1,1 @@
-# PPP_laba_4
-PPP_laba_4
+# Laba_PPP_4
